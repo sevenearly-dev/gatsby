@@ -107,7 +107,7 @@ const links = [
     color: '#0D96F2',
   },
   {
-    text: 'Plugin Library aaa',
+    text: 'Plugin Library aaabbbbeeee',
     url: 'https://www.gatsbyjs.com/plugins',
     description:
       'Add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.',
